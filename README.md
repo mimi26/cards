@@ -1,6 +1,8 @@
 # Cards
 
-**TODO: Add description**
+**Description**
+
+A command line card game
 
 ## Installation
 
